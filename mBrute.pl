@@ -165,7 +165,7 @@ print "\nUsage: $0 [comando]\n".
 		  "               [Defaut 20]\n\n".
 		  "[!] Exemplos:\n".
 		  "perl $0 --l sites.txt --u user.txt --p pass.txt --f 100\n".
-		  "perl $0 --l sites.txt --u user.txt --p pass.txt --f 100 --s cracked\n".
+		  "perl $0 --l sites.txt --u user.txt --p pass.txt --f 100 --s cracked.txt\n".
 		  "perl $0 --list-site sites.txt --list-user user.txt --list-pass pass.txt --process 100\n".
 		  "perl $0 --list-site sites.txt --list-user user.txt --list-pass pass.txt --process 100 --s cracked.txt\n";
     exit;
