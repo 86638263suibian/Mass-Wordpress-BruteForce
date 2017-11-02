@@ -10,6 +10,15 @@ use Getopt::Long;
 use WWW::Mechanize;
 use Parallel::ForkManager;
 
+my $distro; 
+my $usr = $^O;
+
+if ( $usr eq "MSWin32") {
+	system ("cls");
+} else {
+	system ("clear");
+}
+
 my (@splitar, @users, @sites, @pass, $site, $pm, $fm, $optListSites, 
 	$optListUsers, $optListPass, $optProcess, $optSave, $optHelp, $Save,$p);
 
