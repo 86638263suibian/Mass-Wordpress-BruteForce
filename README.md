@@ -1,7 +1,7 @@
 # Mass Wordpress BruteForce
 
 ### Descrição:
-Script criado para rodar um atque de força bruta em cms Wordpress
+Script criado para rodar um ataque de força bruta em cms Wordpress
 
 ### About:
 
