@@ -29,7 +29,7 @@ Usage: perl wpBrute.pl --help
 
 ### Help script:
 ```
-$ perl wpBrute.pl.pl --help
+$ perl wpBrute.pl --help
 
 -------------------------
       WP BRUTE FORCE
